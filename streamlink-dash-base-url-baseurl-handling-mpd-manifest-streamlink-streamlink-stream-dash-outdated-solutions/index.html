@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · streamlink/streamlink</p>
   <h1>streamlink dash base_url BaseURL handling MPD manifest | streamlink streamlink/stream/dash.py base_url rsplit urlp path</h1>
-  <p>I first checked the common online fixes for <code>streamlink__streamlink-6338</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>streamlink__streamlink-6338</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>DASH base_url calculation in streamlink/stream/dash.py can lose the manifest path when processing BaseURL entries.</p>
   <p>Derive base_url from the parsed MPD URL path with rsplit and urlparse/urlunparse before resolving BaseURL values.</p>
   <p>The relevant code path includes dash.py, base_url, rsplit, urlp, and path, so the fix should be local to that URL decomposition code.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

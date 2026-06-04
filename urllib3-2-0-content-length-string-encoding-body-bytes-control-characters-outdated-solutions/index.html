@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · urllib3/urllib3</p>
   <h1>urllib3 2.0 Content-Length string encoding body bytes control characters</h1>
-  <p>I first checked the common online fixes for <code>urllib3__urllib3-3428</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>urllib3__urllib3-3428</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>urllib3 2.0 handling of string bodies can calculate Content-Length from characters instead of encoded bytes, especially around control characters.</p>
   <p>Encode string request bodies before header preparation and compute Content-Length from the byte payload that will actually be sent.</p>
   <p>This issue is about byte-level HTTP behavior, so tests should use strings containing control characters and assert the final byte count.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

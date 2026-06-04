@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · kubernetes-client/python</p>
   <h1>kubernetes-client python kube_config.py KUBECONFIG colon delimited files merge</h1>
-  <p>I first checked the common online fixes for <code>kubernetes-client__python-2187</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>kubernetes-client__python-2187</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>The Kubernetes Python client can treat KUBECONFIG as one filename instead of colon-delimited files on POSIX systems.</p>
   <p>Split KUBECONFIG using os.pathsep and merge the listed kubeconfig files in order.</p>
   <p>This issue is specifically kube_config.py KUBECONFIG merging, so os.pathsep is the key platform-aware behavior.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

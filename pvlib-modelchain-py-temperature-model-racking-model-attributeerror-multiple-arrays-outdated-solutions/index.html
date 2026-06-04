@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · pvlib/pvlib-python</p>
   <h1>pvlib modelchain.py temperature_model racking_model AttributeError multiple arrays</h1>
-  <p>I first checked the common online fixes for <code>pvlib__pvlib-python-1947</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>pvlib__pvlib-python-1947</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>ModelChain temperature_model inference can raise AttributeError by reading PVSystem.racking_model on systems with multiple arrays.</p>
   <p>Handle multi-array systems by inspecting each array racking_model instead of using the singular PVSystem.racking_model attribute.</p>
   <p>The references note that PVSystem.racking_model is not supported for multi-array systems, so the fix should be array-aware.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

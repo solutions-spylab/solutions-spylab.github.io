@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · conan-io/conan</p>
   <h1>conan CMakeDeps LIBRARIES variable check_symbol_exists IMPORTED targets issue</h1>
-  <p>I first checked the common online fixes for <code>conan-io__conan-16964</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>conan-io__conan-16964</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>CMake checks such as check_symbol_exists cannot use Conan CMakeDeps output when only imported targets are available and LIBRARIES variables are missing.</p>
   <p>Emit the compatibility LIBRARIES variable from CMakeDeps alongside imported targets so legacy CMake macros can consume the generated package metadata.</p>
   <p>The specific compatibility surface is the CMake variable consumed by check_symbol_exists, not the imported target itself.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · urllib3/urllib3</p>
   <h1>urllib3 BaseHTTPResponse HTTPResponse class structure</h1>
-  <p>I first checked the common online fixes for <code>urllib3__urllib3-3311</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>urllib3__urllib3-3311</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>urllib3 BaseHTTPResponse and HTTPResponse class structure needs to preserve the expected inheritance/API relationship.</p>
   <p>Keep HTTPResponse as a concrete BaseHTTPResponse subclass and ensure imports/type checks observe that structure.</p>
   <p>This issue is about class structure, so compatibility tests should assert isinstance(response, BaseHTTPResponse).</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

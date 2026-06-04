@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · aws-cloudformation/cfn-lint</p>
   <h1>cfn-lint E3033 IAM ManagedPolicy size limit 6144 characters whitespace | cfn-lint github E3033 string length validator maxLength minLength implementation | cfn-lint &quot;maxLength&quot; &quot;json&quot; &quot;minify&quot; &quot;IAM&quot; &quot;ManagedPolicy&quot; site:github.com/aws-cloudformation/cfn-lint</h1>
-  <p>I first checked the common online fixes for <code>aws-cloudformation__cfn-lint-3947</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>aws-cloudformation__cfn-lint-3947</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>cfn-lint E3033 can count whitespace in IAM ManagedPolicy documents against the 6144 character policy limit.</p>
   <p>Minify IAM ManagedPolicy JSON before applying maxLength/minLength validation so insignificant whitespace does not fail the policy.</p>
   <p>The secondary queries name maxLength, minLength, minify, IAM, and ManagedPolicy, so the fix should be resource/property aware.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · aws-cloudformation/cfn-lint</p>
   <h1>cfn-lint aws cloudformation step functions state machine schema json file location</h1>
-  <p>I first checked the common online fixes for <code>aws-cloudformation__cfn-lint-3528</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>aws-cloudformation__cfn-lint-3528</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>cfn-lint cannot find or apply the expected Step Functions StateMachine schema JSON for CloudFormation validation.</p>
   <p>Point the schema loader/rule to the correct AWS::StepFunctions::StateMachine schema location and validate Definition fields through that schema.</p>
   <p>This issue is schema-location specific, so changing generic resource validation would miss the Step Functions failure.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

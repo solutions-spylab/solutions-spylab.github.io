@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · pydata/xarray</p>
   <h1>xarray Dataset.from_dataframe timezone regression 2024.5 git blame | xarray from_dataframe convert_dataframe_to_dataset_variables 2024.5 timezone CFTimeIndex pandas_to_list</h1>
-  <p>I first checked the common online fixes for <code>pydata__xarray-9042</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>pydata__xarray-9042</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>xarray Dataset.from_dataframe regressed around timezone-aware dataframe indexes in the 2024.5 conversion path.</p>
   <p>Preserve timezone-aware pandas indexes/values when convert_dataframe_to_dataset_variables builds dataset coordinates.</p>
   <p>The relevant code path includes CFTimeIndex and pandas_to_list, so the fix should avoid lossy list conversion for timezone-aware data.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

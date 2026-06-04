@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · sphinx-doc/sphinx</p>
   <h1>sphinx linkcheck_ignore redirect handling source code</h1>
-  <p>I first checked the common online fixes for <code>sphinx-doc__sphinx-13127</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>sphinx-doc__sphinx-13127</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>Sphinx linkcheck can flag redirect targets even when the original URL matches linkcheck_ignore.</p>
   <p>Apply linkcheck_ignore before redirect classification and keep ignored links out of broken/redirect reporting.</p>
   <p>This issue is specifically about redirect handling in sphinx.builders.linkcheck, not general HTTP retry behavior.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

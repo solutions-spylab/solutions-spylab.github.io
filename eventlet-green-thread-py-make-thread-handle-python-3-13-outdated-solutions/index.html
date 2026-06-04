@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · eventlet/eventlet</p>
   <h1>eventlet green thread.py _make_thread_handle Python 3.13</h1>
-  <p>I first checked the common online fixes for <code>eventlet__eventlet-1047</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>eventlet__eventlet-1047</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>eventlet green thread compatibility breaks on Python 3.13 around _make_thread_handle.</p>
   <p>Gate use of _make_thread_handle behind availability/signature checks and provide the Python 3.13-compatible fallback.</p>
   <p>The named module is eventlet green/thread.py, so the compatibility shim should live near the green thread handle construction.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

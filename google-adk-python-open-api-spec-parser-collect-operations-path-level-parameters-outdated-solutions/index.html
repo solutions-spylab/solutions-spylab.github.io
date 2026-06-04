@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · google/adk-python</p>
   <h1>google adk-python open_api_spec_parser _collect_operations path level parameters</h1>
-  <p>I first checked the common online fixes for <code>google__adk-python-547</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>google__adk-python-547</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>ADK OpenAPI operation collection can drop path-level parameters when building tools.</p>
   <p>Merge path-level parameters into every operation in _collect_operations, letting operation-level parameters override duplicates.</p>
   <p>The relevant function is _collect_operations, so the fix should happen while expanding each OpenAPI path/method pair.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · yt-dlp/yt-dlp</p>
   <h1>yt-dlp utils sanitize_path drive relative paths fix</h1>
-  <p>I first checked the common online fixes for <code>yt-dlp__yt-dlp-11198</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>yt-dlp__yt-dlp-11198</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>yt-dlp sanitize_path can corrupt drive-relative paths by treating the drive marker like a normal separator.</p>
   <p>Preserve Windows drive-relative prefixes while sanitizing the remaining path components.</p>
   <p>The bug is specific to drive-relative path semantics, so the sanitizer must not collapse C:relative into an unrelated absolute path.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

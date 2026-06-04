@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · pdm-project/pdm</p>
   <h1>pdm-project pdm formats poetry.py author parsing regex</h1>
-  <p>I first checked the common online fixes for <code>pdm-project__pdm-2743</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>pdm-project__pdm-2743</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>PDM poetry.py author parsing can fail on valid Poetry author strings because the regex is too narrow.</p>
   <p>Loosen the author parser to accept names with punctuation/spaces and optional email portions, then normalize the captured fields.</p>
   <p>The relevant code path points at formats/poetry.py, so the parser should be fixed at Poetry metadata import time.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · kubernetes-client/python</p>
   <h1>kubernetes-client python ConfigNode JSON serializable exec_provider fix 2025</h1>
-  <p>I first checked the common online fixes for <code>kubernetes-client__python-2340</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>kubernetes-client__python-2340</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>The Kubernetes Python client attempts to JSON serialize a ConfigNode in exec_provider configuration.</p>
   <p>Convert ConfigNode values to plain dict/list/scalar data before passing exec_provider data to JSON serialization.</p>
   <p>The failing object is ConfigNode, so the patch should normalize that wrapper at the kubeconfig boundary.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

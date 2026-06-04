@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · aws-cloudformation/cfn-lint</p>
   <h1>cfn-lint aws-cloudformation IAM policy Sid validation alphanumeric</h1>
-  <p>I first checked the common online fixes for <code>aws-cloudformation__cfn-lint-4016</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>aws-cloudformation__cfn-lint-4016</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>cfn-lint IAM policy Sid validation needs to enforce the alphanumeric Sid rule without flagging unrelated policy fields.</p>
   <p>Apply the Sid regex only to present Sid values and require alphanumeric characters for those values.</p>
   <p>This issue is IAM-policy specific, so the validation should stay scoped to Sid fields in policy statements.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

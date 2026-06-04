@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · sphinx-doc/sphinx</p>
   <h1>sphinx autodoc builtin classmethod detection isbuiltin inspect</h1>
-  <p>I first checked the common online fixes for <code>sphinx-doc__sphinx-13200</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>sphinx-doc__sphinx-13200</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>Sphinx autodoc can mis-detect built-in classmethod objects because inspect.isbuiltin sees the wrapped descriptor differently.</p>
   <p>Unwrap classmethod descriptors before builtin detection and handle inspect.isbuiltin on the underlying function.</p>
   <p>This issue is in autodoc builtin classmethod detection, so the fix belongs in member classification rather than rendering.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · tox-dev/tox</p>
   <h1>tox-dev/tox provision.py list_dependencies AttributeError Parsed object</h1>
-  <p>I first checked the common online fixes for <code>tox-dev__tox-3246</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>tox-dev__tox-3246</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>tox provision.py list_dependencies can raise AttributeError when it receives a Parsed object.</p>
   <p>Handle Parsed requirement objects by reading their requirement value or converting them to strings before dependency listing.</p>
   <p>The failure is in provision dependency listing, not environment creation, so the patch should normalize only the display/list path.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

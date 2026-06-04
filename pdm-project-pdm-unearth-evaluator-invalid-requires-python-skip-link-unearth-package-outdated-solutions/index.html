@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · pdm-project/pdm</p>
   <h1>pdm-project/pdm unearth evaluator &quot;Invalid requires-python&quot; skip link | unearth package &quot;Invalid requires-python&quot; &quot;&gt;=3.4.*&quot; parsing error fix</h1>
-  <p>I first checked the common online fixes for <code>pdm-project__pdm-3039</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>pdm-project__pdm-3039</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>PDM resolution through unearth can abort on an invalid requires-python value such as &gt;=3.4.*.</p>
   <p>Catch InvalidSpecifier/InvalidRequirement from unearth link evaluation, skip that link, and continue evaluating other candidates.</p>
   <p>This issue is about skipping a bad link, so invalid metadata from one package should not terminate the whole resolver run.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

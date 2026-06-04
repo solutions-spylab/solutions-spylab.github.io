@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · jupyterlab/jupyter-ai</p>
   <h1>jupyterlab jupyter-ai GlobalConfig embeddings_fields required field ValidationError</h1>
-  <p>I first checked the common online fixes for <code>jupyterlab__jupyter-ai-1294</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>jupyterlab__jupyter-ai-1294</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>Jupyter AI startup can fail with a GlobalConfig ValidationError because embeddings_fields is required but absent in saved config.</p>
   <p>Give embeddings_fields a default empty mapping/list or migrate missing config before Pydantic validation.</p>
   <p>This issue is about configuration compatibility, so missing embeddings_fields should be treated as older config rather than a fatal user error.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

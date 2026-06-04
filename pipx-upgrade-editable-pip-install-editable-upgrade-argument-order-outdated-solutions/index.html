@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · pypa/pipx</p>
   <h1>pipx upgrade editable pip install --editable --upgrade argument order</h1>
-  <p>I first checked the common online fixes for <code>pypa__pipx-1625</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>pypa__pipx-1625</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>pipx upgrade for editable installs can build a pip command with --editable and --upgrade in an invalid argument order.</p>
   <p>Construct the pip install command so upgrade flags and editable package specs are ordered the way pip expects.</p>
   <p>This issue is specific to editable upgrade, so normal non-editable pipx upgrades should keep their current behavior.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

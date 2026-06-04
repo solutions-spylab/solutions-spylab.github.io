@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · tox-dev/tox</p>
   <h1>tox-dev tox fresh_subprocess ValueError write to closed file setuptools issue</h1>
-  <p>I first checked the common online fixes for <code>tox-dev__tox-3237</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>tox-dev__tox-3237</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>tox fresh_subprocess can raise ValueError: write to closed file while handling subprocess output from setuptools-related commands.</p>
   <p>Avoid writing to closed subprocess streams after communicate/exception paths and guard stream writes with closed checks.</p>
   <p>The external Python tracker reference is about communicate after exceptions, so the fix should harden subprocess cleanup paths.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

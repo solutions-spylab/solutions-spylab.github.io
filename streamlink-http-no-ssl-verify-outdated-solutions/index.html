@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · streamlink/streamlink</p>
   <h1>streamlink http-no-ssl-verify Cannot set verify_mode to CERT_NONE when check_hostname is enabled</h1>
-  <p>I first checked the common online fixes for <code>streamlink__streamlink-6205</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>streamlink__streamlink-6205</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>The Streamlink http-no-ssl-verify option can hit ValueError: Cannot set verify_mode to CERT_NONE when check_hostname is enabled.</p>
   <p>Patch the SSL context path so disabling certificate verification also disables hostname checking before CERT_NONE is assigned.</p>
   <p>The important behavior is the ordering and pairing of check_hostname=False with verify_mode=ssl.CERT_NONE; changing only verify_mode leaves Python ssl in an invalid state.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

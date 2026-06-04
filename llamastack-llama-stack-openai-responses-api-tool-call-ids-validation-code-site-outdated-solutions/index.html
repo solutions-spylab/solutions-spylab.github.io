@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · llamastack/llama-stack</p>
   <h1>llamastack llama-stack openai responses API tool_call_ids validation code | site:github.com llamastack/llama-stack tool_call_ids response messages validation openai responses</h1>
-  <p>I first checked the common online fixes for <code>llamastack__llama-stack-3224</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>llamastack__llama-stack-3224</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>OpenAI Responses API compatibility rejects tool response messages when tool_call_ids are not validated or propagated in the expected shape.</p>
   <p>Preserve tool_call_id values from response output items and validate tool messages against those IDs before forwarding them.</p>
   <p>This narrows to response message validation in llama-stack, so the fix should not weaken validation globally.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

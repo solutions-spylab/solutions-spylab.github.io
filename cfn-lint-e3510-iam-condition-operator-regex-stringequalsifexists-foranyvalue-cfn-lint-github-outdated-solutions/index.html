@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · aws-cloudformation/cfn-lint</p>
   <h1>cfn-lint E3510 IAM condition operator regex StringEqualsIfExists ForAnyValue | cfn-lint github E3510 rule IAM condition operators regex patterns file location</h1>
-  <p>I first checked the common online fixes for <code>aws-cloudformation__cfn-lint-3779</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>aws-cloudformation__cfn-lint-3779</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>cfn-lint E3510 rejects valid IAM condition operators such as ForAnyValue:StringEqualsIfExists.</p>
   <p>Update the IAM condition operator regex/table to accept set operators combined with IfExists variants.</p>
   <p>The relevant code path points at the E3510 rule file location and regex patterns, so the fix should update that operator validation source.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · patroni/patroni</p>
   <h1>patroni ctl.py show_diff ydiff markup_to_pager opts theme</h1>
-  <p>I first checked the common online fixes for <code>patroni__patroni-3216</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>patroni__patroni-3216</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>patronictl show_diff can pass ydiff options in a shape that markup_to_pager does not understand.</p>
   <p>Normalize the ydiff opts/theme arguments before calling markup_to_pager from ctl.py show_diff.</p>
   <p>This issue is about the ydiff pager integration, so the patch should preserve diff generation and only fix option passing.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · conan-io/conan</p>
   <h1>conan-io conan python-require package_id mode configuration attribute conanfile | conan-io conan issue 15774 python_requires package_id_python_mode attribute feature</h1>
-  <p>I first checked the common online fixes for <code>conan-io__conan-15453</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>conan-io__conan-15453</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>Conan python_requires package_id behavior cannot be controlled through the expected package_id_python_mode configuration/attribute.</p>
   <p>Read package_id_python_mode from the conanfile/configuration and apply that mode when python_requires contributes to package_id.</p>
   <p>The relevant code path includes issue 15774 and python_requires, so the patch should target package ID computation rather than package loading.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

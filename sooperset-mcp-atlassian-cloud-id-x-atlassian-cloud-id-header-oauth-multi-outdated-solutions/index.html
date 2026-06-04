@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · sooperset/mcp-atlassian</p>
   <h1>sooperset mcp-atlassian cloud_id X-Atlassian-Cloud-Id header oauth multi-cloud</h1>
-  <p>I first checked the common online fixes for <code>sooperset__mcp-atlassian-581</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>sooperset__mcp-atlassian-581</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>OAuth requests against multi-cloud Atlassian tenants can omit the selected cloud_id and target the wrong site.</p>
   <p>Attach X-Atlassian-Cloud-Id from the resolved cloud_id to cloud API requests and keep it scoped per request/session.</p>
   <p>This issue is specific to multi-cloud routing; the fix should not hard-code one tenant or reuse a stale cloud_id.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

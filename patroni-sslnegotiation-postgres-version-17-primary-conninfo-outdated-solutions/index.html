@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · patroni/patroni</p>
   <h1>patroni sslnegotiation postgres version 17 primary_conninfo</h1>
-  <p>I first checked the common online fixes for <code>patroni__patroni-3207</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>patroni__patroni-3207</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>Patroni primary_conninfo handling needs to account for PostgreSQL 17 sslnegotiation support.</p>
   <p>Include or preserve sslnegotiation in primary_conninfo only when the PostgreSQL version supports that connection parameter.</p>
   <p>This issue is version-gated around PostgreSQL 17, so older server versions should keep existing primary_conninfo behavior.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>

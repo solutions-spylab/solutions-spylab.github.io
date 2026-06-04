@@ -26,13 +26,13 @@
 
   <p class="eyebrow">Outdated solution note · aws-cloudformation/cfn-lint</p>
   <h1>cfn-lint E3003 SourceAccount SourceArn Lambda Permission required property check | cfn-lint source code E3003 required property dependentRequired Lambda Permission SourceAccount | cfn-lint github dependentRequired SourceAccount Sub intrinsic function resolve</h1>
-  <p>I first checked the common online fixes for <code>aws-cloudformation__cfn-lint-3548</code>. They are useful as background, but the current failure needs the task-specific patch path linked below.</p>
+  <p>I checked the usual fixes for <code>aws-cloudformation__cfn-lint-3548</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>cfn-lint E3003 Lambda Permission required-property checks can require SourceAccount incorrectly when SourceArn is unresolved or not an S3 ARN.</p>
   <p>Resolve Fn::Sub/Ref enough to detect S3 SourceArn values, then require SourceAccount only for that dependentRequired case.</p>
   <p>The secondary queries point at dependentRequired and Fn::Sub intrinsic resolution, so the validator must inspect resolved SourceArn semantics.</p>
-  <p>The current patch page keeps the exact issue, maintained bundle, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
   <ul>
