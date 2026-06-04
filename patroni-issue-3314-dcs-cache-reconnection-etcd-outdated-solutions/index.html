@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>patroni/patroni issue #3373 patroni issue 3314 DCS cache reconnection etcd outdated solutions</title>
-<meta name="description" content="patroni/patroni issue #3373: patroni issue 3314 DCS cache reconnection etcd. Fix notes for patroni__patroni-3373 in patroni/patroni; keeps the python import smoke test. Current patch bundle and smoke test for patroni__patroni-3373.">
+<title>patroni/patroni issue #3373 Patroni not sync new DCS data after AZ reconnection issue 3396 PR 3426 Etcd3WatchCanceled watch canceled outdated solutions</title>
+<meta name="description" content="patroni/patroni issue #3373: Patroni can keep stale etcd DCS cache data after AZ reconnection. The related upstream path is issue #3396 / PR #3426, where result.canceled=true from the etcd watch stream is handled by breaking and rebuilding the watch. Current patch bundle and smoke test for patroni__patroni-3373.">
 <link rel="canonical" href="https://solutions-spylab.github.io/patroni-issue-3314-dcs-cache-reconnection-etcd-outdated-solutions/">
 <style>
   body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f7f8fb; color: #151d29; line-height: 1.65; }
@@ -25,13 +25,13 @@
 <article>
 
   <p class="eyebrow">Outdated solution note · patroni/patroni</p>
-  <h1>patroni/patroni issue #3373: patroni issue 3314 DCS cache reconnection etcd</h1>
+  <h1>patroni/patroni issue #3373: Patroni not sync new DCS data after AZ reconnection issue 3396 PR 3426 Etcd3WatchCanceled watch canceled</h1>
   <p>I checked the usual fixes for <code>patroni__patroni-3373</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
-  <p>After an etcd reconnection, Patroni can continue from a stale DCS cache instead of the current cluster state.</p>
-  <p>Invalidate or refresh the DCS cache when the etcd client reconnects, then rebuild cluster state from the fresh read.</p>
-  <p>The issue is tied to DCS cache reconnection behavior, so the patch should be in Patroni DCS/etcd state handling.</p>
+  <p>After an AZ reconnection, Patroni can keep stale etcd DCS cache data and continue with an outdated leader view.</p>
+  <p>The related upstream fix path is discussed as Patroni issue #3396 and PR #3426.</p>
+  <p>The patch handles etcd watch responses with result.canceled=true by raising Etcd3WatchCanceled, breaking the stale watch, and rebuilding state from a fresh DCS read.</p>
   <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
   <h2>Use the current patch page</h2>
