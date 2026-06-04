@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://solutions-spylab.github.io/sitemap.xml
 Sitemap: https://solutions-spylab.github.io/sitemap.txt
+Sitemap: https://solutions-spylab.github.io/gsc-sitemap.xml
+Sitemap: https://solutions-spylab.github.io/gsc-sitemap.txt
