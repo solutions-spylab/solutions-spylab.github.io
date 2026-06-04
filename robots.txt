@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://solutions-spylab.github.io/sitemap.xml
+Sitemap: https://solutions-spylab.github.io/sitemap.txt
