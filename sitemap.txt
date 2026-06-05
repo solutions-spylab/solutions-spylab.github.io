@@ -99,3 +99,4 @@ https://solutions-spylab.github.io/traceloop-openllmetry-openai-instrumentation-
 https://solutions-spylab.github.io/traceloop-openllmetry-openai-instrumentation-token-usage-enrich-token-usage-tiktoken-outdated-solutions/
 https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-missing-codec-issue-current-patch/
 https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-missing-codec-issue-outdated-solutions/
+https://solutions-spylab.github.io/patroni-patroni-3373-stale-dcs-cache-reconnection-az-etcd-watchprefix-issue-current-patch/
