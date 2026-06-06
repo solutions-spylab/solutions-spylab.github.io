@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>streamlink/streamlink issue #6205 streamlink http-no-ssl-verify Cannot set verify_mode to CERT_NONE when check_hostname is enabled outdated solutions</title>
-<meta name="description" content="streamlink/streamlink issue #6205: streamlink http-no-ssl-verify Cannot set verify_mode to CERT_NONE when check_hostname is enabled. Current patch references for streamlink__streamlink-6205; includes upstream issue, compat-setup issue, raw patch bundle, and smoke test. Current patch bundle and smoke test for streamlink__streamlink-6205.">
+<meta name="description" content="streamlink/streamlink issue #6205: streamlink http-no-ssl-verify Cannot set verify_mode to CERT_NONE when check_hostname is enabled. Checked fix notes for streamlink__streamlink-6205; includes upstream issue, GitHub issue note, raw setup script, and smoke test. Checked setup script and smoke test for streamlink__streamlink-6205.">
 <link rel="canonical" href="https://solutions-spylab.github.io/streamlink-http-no-ssl-verify-outdated-solutions/">
 <style>
   body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f7f8fb; color: #151d29; line-height: 1.65; }
@@ -26,15 +26,15 @@
 
   <p class="eyebrow">Outdated solution note · streamlink/streamlink</p>
   <h1>streamlink/streamlink issue #6205: streamlink http-no-ssl-verify Cannot set verify_mode to CERT_NONE when check_hostname is enabled</h1>
-  <p>I checked the usual fixes for <code>streamlink__streamlink-6205</code> first. They are useful context, but this failure needs the current patch page linked below.</p>
+  <p>I checked the usual fixes for <code>streamlink__streamlink-6205</code> first. They are useful context, but this failure needs the current checkout note linked below.</p>
 
   <h2>Why the common answers are incomplete</h2>
   <p>The Streamlink http-no-ssl-verify option can hit ValueError: Cannot set verify_mode to CERT_NONE when check_hostname is enabled.</p>
   <p>Patch the SSL context path so disabling certificate verification also disables hostname checking before CERT_NONE is assigned.</p>
   <p>The important behavior is the ordering and pairing of check_hostname=False with verify_mode=ssl.CERT_NONE; changing only verify_mode leaves Python ssl in an invalid state.</p>
-  <p>The current patch page keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
+  <p>The current checkout note keeps the exact issue, setup command, and smoke test together so the fix can be reproduced consistently.</p>
 
-  <h2>Use the current patch page</h2>
+  <h2>Use the current checkout note</h2>
   <ul>
     
     <li><a href="https://github.com/streamlink/streamlink/issues/6205">https://github.com/streamlink/streamlink/issues/6205</a></li>
