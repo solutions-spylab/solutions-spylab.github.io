@@ -110,3 +110,6 @@ https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-
 https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-missing-codec-issue-outdated-solutions/
 https://solutions-spylab.github.io/yt-dlp-utils-sanitize-path-drive-relative-paths-fix-current-patch/
 https://solutions-spylab.github.io/yt-dlp-utils-sanitize-path-drive-relative-paths-fix-outdated-solutions/
+https://solutions-spylab.github.io/terminal-bench-mailman3-postfix-reading-group-local-delivery-current-patch/
+https://solutions-spylab.github.io/terminal-bench-sam-cell-seg-mobilesam-cpu-mask-polylines-current-patch/
+https://solutions-spylab.github.io/terminal-bench-db-wal-recovery-sqlite-wal-11-records-current-patch/
