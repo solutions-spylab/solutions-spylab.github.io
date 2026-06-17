@@ -2,691 +2,745 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://solutions-spylab.github.io/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/beetbox-beets-lastgenre-plugin-genres-tree-yaml-various-artists-genre-classification-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/beetbox-beets-lastgenre-plugin-genres-tree-yaml-various-artists-genre-classification-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/briefcase-beeware-git-remote-set-url-origin-template-checkout-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/briefcase-beeware-git-remote-set-url-origin-template-checkout-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-aws-cloudformation-iam-policy-sid-validation-alphanumeric-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-aws-cloudformation-iam-policy-sid-validation-alphanumeric-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-aws-cloudformation-step-functions-state-machine-schema-json-file-location-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-aws-cloudformation-step-functions-state-machine-schema-json-file-location-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-e3003-sourceaccount-sourcearn-lambda-permission-required-property-check-cfn-lint-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-e3003-sourceaccount-sourcearn-lambda-permission-required-property-check-cfn-lint-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-e3031-ssm-parameter-regex-validation-aws-cloudformation-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-e3031-ssm-parameter-regex-validation-aws-cloudformation-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-e3033-iam-managedpolicy-size-limit-6144-characters-whitespace-cfn-lint-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-e3033-iam-managedpolicy-size-limit-6144-characters-whitespace-cfn-lint-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-e3510-iam-condition-operator-regex-stringequalsifexists-foranyvalue-cfn-lint-github-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/cfn-lint-e3510-iam-condition-operator-regex-stringequalsifexists-foranyvalue-cfn-lint-github-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/conan-cmakedeps-libraries-variable-check-symbol-exists-imported-targets-issue-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/conan-cmakedeps-libraries-variable-check-symbol-exists-imported-targets-issue-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/conan-io-conan-python-require-package-id-mode-configuration-attribute-conanfile-conan-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/conan-io-conan-python-require-package-id-mode-configuration-attribute-conanfile-conan-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/eventlet-green-thread-py-make-thread-handle-python-3-13-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/eventlet-green-thread-py-make-thread-handle-python-3-13-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/google-adk-python-open-api-spec-parser-collect-operations-path-level-parameters-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/google-adk-python-open-api-spec-parser-collect-operations-path-level-parameters-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/jlowin-fastmcp-openapi-py-openapitool-request-headers-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/jlowin-fastmcp-openapi-py-openapitool-request-headers-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/jupyterlab-jupyter-ai-globalconfig-embeddings-fields-required-field-validationerror-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/jupyterlab-jupyter-ai-globalconfig-embeddings-fields-required-field-validationerror-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/kubernetes-client-python-confignode-json-serializable-exec-provider-fix-2025-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/kubernetes-client-python-confignode-json-serializable-exec-provider-fix-2025-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/kubernetes-client-python-kube-config-py-kubeconfig-colon-delimited-files-merge-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/kubernetes-client-python-kube-config-py-kubeconfig-colon-delimited-files-merge-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/llamastack-llama-stack-openai-responses-api-tool-call-ids-validation-code-site-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/llamastack-llama-stack-openai-responses-api-tool-call-ids-validation-code-site-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/matplotlib-markers-caretright-numeric-value-prop-cycle-validation-str-conversion-matplotlib-init-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/matplotlib-markers-caretright-numeric-value-prop-cycle-validation-str-conversion-matplotlib-init-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/matplotlib-plot-date-timezone-tz-parameter-ignored-site-github-com-matplotlib-matplotlib-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/matplotlib-plot-date-timezone-tz-parameter-ignored-site-github-com-matplotlib-matplotlib-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/mdanalysis-dcd-seek-failed-normal-eof-oserror-issue-2-8-0-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/mdanalysis-dcd-seek-failed-normal-eof-oserror-issue-2-8-0-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/patroni-ctl-py-show-diff-ydiff-markup-to-pager-opts-theme-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/patroni-ctl-py-show-diff-ydiff-markup-to-pager-opts-theme-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/patroni-issue-3314-dcs-cache-reconnection-etcd-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/patroni-issue-3314-dcs-cache-reconnection-etcd-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/patroni-patroni-3373-stale-dcs-cache-reconnection-az-etcd-watchprefix-issue-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/patroni-sslnegotiation-postgres-version-17-primary-conninfo-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/patroni-sslnegotiation-postgres-version-17-primary-conninfo-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-formats-poetry-py-author-parsing-regex-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-formats-poetry-py-author-parsing-regex-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-keyring-caching-repeated-queries-repository-auth-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-keyring-caching-repeated-queries-repository-auth-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-plugin-editable-mode-install-file-url-parsing-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-plugin-editable-mode-install-file-url-parsing-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-unearth-evaluator-invalid-requires-python-skip-link-unearth-package-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-unearth-evaluator-invalid-requires-python-skip-link-unearth-package-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-uv-backend-index-credentials-command-line-pdm-project-pdm-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pdm-project-pdm-uv-backend-index-credentials-command-line-pdm-project-pdm-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pipx-upgrade-editable-pip-install-editable-upgrade-argument-order-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pipx-upgrade-editable-pip-install-editable-upgrade-argument-order-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pvlib-modelchain-py-temperature-model-racking-model-attributeerror-multiple-arrays-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pvlib-modelchain-py-temperature-model-racking-model-attributeerror-multiple-arrays-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pynamodb-connection-boto3-botocore-retry-modes-configuration-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/pynamodb-connection-boto3-botocore-retry-modes-configuration-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/reflex-dev-reflex-router-headers-websocket-state-get-headers-implementation-reflex-dev-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/reflex-dev-reflex-router-headers-websocket-state-get-headers-implementation-reflex-dev-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/solaar-pwr-solaar-swap-fx-f-keys-feature-implementation-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/solaar-pwr-solaar-swap-fx-f-keys-feature-implementation-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/sooperset-mcp-atlassian-cloud-id-x-atlassian-cloud-id-header-oauth-multi-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/sooperset-mcp-atlassian-cloud-id-x-atlassian-cloud-id-header-oauth-multi-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/sphinx-autodoc-builtin-classmethod-detection-isbuiltin-inspect-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/sphinx-autodoc-builtin-classmethod-detection-isbuiltin-inspect-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/sphinx-linkcheck-ignore-redirect-handling-source-code-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/sphinx-linkcheck-ignore-redirect-handling-source-code-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/streamlink-dash-base-url-baseurl-handling-mpd-manifest-streamlink-streamlink-stream-dash-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/streamlink-dash-base-url-baseurl-handling-mpd-manifest-streamlink-streamlink-stream-dash-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/streamlink-dash-baseurl-joining-mpd-manifest-url-path-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/streamlink-dash-baseurl-joining-mpd-manifest-url-path-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/streamlink-http-no-ssl-verify-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/streamlink-http-no-ssl-verify-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/streamlink-tiktok-plugin-room-id-sigi-state-2024-2025-streamlink-tiktok-plugin-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/streamlink-tiktok-plugin-room-id-sigi-state-2024-2025-streamlink-tiktok-plugin-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-build-pmars-debian-source-no-x11-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-build-pmars-debian-source-no-x11-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-build-pov-ray-2-2-source-archive-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-build-pov-ray-2-2-source-archive-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-caffe-1-0-0-cpu-cifar10-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-caffe-1-0-0-cpu-cifar10-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-compile-compcert-3-13-1-source-build-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-compile-compcert-3-13-1-source-build-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/terminal-bench-pyknotid-0-5-3-numpy-2-cython-extensions-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://solutions-spylab.github.io/terminal-bench-pyknotid-0-5-3-numpy-2-cython-extensions-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/tox-dev-tox-fresh-subprocess-valueerror-write-to-closed-file-setuptools-issue-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/tox-dev-tox-fresh-subprocess-valueerror-write-to-closed-file-setuptools-issue-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/tox-dev-tox-provision-py-list-dependencies-attributeerror-parsed-object-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/tox-dev-tox-provision-py-list-dependencies-attributeerror-parsed-object-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/tox-dev-tox-requires-native-toml-configuration-error-requirement-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/tox-dev-tox-requires-native-toml-configuration-error-requirement-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/tox-dev-tox-tox-discover-discover-argument-parsing-source-code-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/tox-dev-tox-tox-discover-discover-argument-parsing-source-code-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/traceloop-openllmetry-openai-instrumentation-token-usage-enrich-token-usage-tiktoken-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/traceloop-openllmetry-openai-instrumentation-token-usage-enrich-token-usage-tiktoken-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/urllib3-2-0-content-length-string-encoding-body-bytes-control-characters-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/urllib3-2-0-content-length-string-encoding-body-bytes-control-characters-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/urllib3-basehttpresponse-httpresponse-class-structure-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/urllib3-basehttpresponse-httpresponse-class-structure-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/xarray-dataset-from-dataframe-timezone-regression-2024-5-git-blame-xarray-from-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/xarray-dataset-from-dataframe-timezone-regression-2024-5-git-blame-xarray-from-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-missing-codec-issue-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-missing-codec-issue-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/yt-dlp-utils-sanitize-path-drive-relative-paths-fix-current-patch/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/yt-dlp-utils-sanitize-path-drive-relative-paths-fix-outdated-solutions/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/terminal-bench-mailman3-postfix-reading-group-local-delivery-current-patch/</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://solutions-spylab.github.io/terminal-bench-sam-cell-seg-mobilesam-cpu-mask-polylines-current-patch/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://solutions-spylab.github.io/terminal-bench-count-dataset-tokens-openthoughts-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/terminal-bench-db-wal-recovery-sqlite-wal-11-records-current-patch/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-dna-assembly-bsai-hfv2-golden-gate-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-fix-ocaml-gc-major-gc-runtime-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-mailman3-postfix-reading-group-local-delivery-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-make-mips-interpreter-elf-syscalls-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-mteb-leaderboard-scandinavian-snapshot-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-password-recovery-binary-grep-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-protein-assembly-fpbase-sequence-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-pyknotid-0-5-3-numpy-2-cython-extensions-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-pyknotid-0-5-3-numpy-2-cython-extensions-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-sam-cell-seg-mobilesam-cpu-mask-polylines-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-sqlite-db-truncate-recover-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/terminal-bench-torch-pipeline-parallelism-llamaforcausallm-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/tox-dev-tox-fresh-subprocess-valueerror-write-to-closed-file-setuptools-issue-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/tox-dev-tox-fresh-subprocess-valueerror-write-to-closed-file-setuptools-issue-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/tox-dev-tox-provision-py-list-dependencies-attributeerror-parsed-object-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/tox-dev-tox-provision-py-list-dependencies-attributeerror-parsed-object-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/tox-dev-tox-requires-native-toml-configuration-error-requirement-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/tox-dev-tox-requires-native-toml-configuration-error-requirement-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/tox-dev-tox-tox-discover-discover-argument-parsing-source-code-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/tox-dev-tox-tox-discover-discover-argument-parsing-source-code-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/traceloop-openllmetry-openai-instrumentation-token-usage-enrich-token-usage-tiktoken-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/traceloop-openllmetry-openai-instrumentation-token-usage-enrich-token-usage-tiktoken-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/urllib3-2-0-content-length-string-encoding-body-bytes-control-characters-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/urllib3-2-0-content-length-string-encoding-body-bytes-control-characters-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/urllib3-basehttpresponse-httpresponse-class-structure-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/urllib3-basehttpresponse-httpresponse-class-structure-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/xarray-dataset-from-dataframe-timezone-regression-2024-5-git-blame-xarray-from-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/xarray-dataset-from-dataframe-timezone-regression-2024-5-git-blame-xarray-from-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-missing-codec-issue-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-missing-codec-issue-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/yt-dlp-utils-sanitize-path-drive-relative-paths-fix-current-patch/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/yt-dlp-utils-sanitize-path-drive-relative-paths-fix-outdated-solutions/</loc>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>

@@ -88,8 +88,20 @@ https://solutions-spylab.github.io/terminal-bench-caffe-1-0-0-cpu-cifar10-curren
 https://solutions-spylab.github.io/terminal-bench-caffe-1-0-0-cpu-cifar10-outdated-solutions/
 https://solutions-spylab.github.io/terminal-bench-compile-compcert-3-13-1-source-build-current-patch/
 https://solutions-spylab.github.io/terminal-bench-compile-compcert-3-13-1-source-build-outdated-solutions/
+https://solutions-spylab.github.io/terminal-bench-count-dataset-tokens-openthoughts-current-patch/
+https://solutions-spylab.github.io/terminal-bench-db-wal-recovery-sqlite-wal-11-records-current-patch/
+https://solutions-spylab.github.io/terminal-bench-dna-assembly-bsai-hfv2-golden-gate-current-patch/
+https://solutions-spylab.github.io/terminal-bench-fix-ocaml-gc-major-gc-runtime-current-patch/
+https://solutions-spylab.github.io/terminal-bench-mailman3-postfix-reading-group-local-delivery-current-patch/
+https://solutions-spylab.github.io/terminal-bench-make-mips-interpreter-elf-syscalls-current-patch/
+https://solutions-spylab.github.io/terminal-bench-mteb-leaderboard-scandinavian-snapshot-current-patch/
+https://solutions-spylab.github.io/terminal-bench-password-recovery-binary-grep-current-patch/
+https://solutions-spylab.github.io/terminal-bench-protein-assembly-fpbase-sequence-current-patch/
 https://solutions-spylab.github.io/terminal-bench-pyknotid-0-5-3-numpy-2-cython-extensions-current-patch/
 https://solutions-spylab.github.io/terminal-bench-pyknotid-0-5-3-numpy-2-cython-extensions-outdated-solutions/
+https://solutions-spylab.github.io/terminal-bench-sam-cell-seg-mobilesam-cpu-mask-polylines-current-patch/
+https://solutions-spylab.github.io/terminal-bench-sqlite-db-truncate-recover-current-patch/
+https://solutions-spylab.github.io/terminal-bench-torch-pipeline-parallelism-llamaforcausallm-current-patch/
 https://solutions-spylab.github.io/tox-dev-tox-fresh-subprocess-valueerror-write-to-closed-file-setuptools-issue-current-patch/
 https://solutions-spylab.github.io/tox-dev-tox-fresh-subprocess-valueerror-write-to-closed-file-setuptools-issue-outdated-solutions/
 https://solutions-spylab.github.io/tox-dev-tox-provision-py-list-dependencies-attributeerror-parsed-object-current-patch/
@@ -110,6 +122,3 @@ https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-
 https://solutions-spylab.github.io/yt-dlp-hls-m3u8-audio-format-sorting-bitrate-missing-codec-issue-outdated-solutions/
 https://solutions-spylab.github.io/yt-dlp-utils-sanitize-path-drive-relative-paths-fix-current-patch/
 https://solutions-spylab.github.io/yt-dlp-utils-sanitize-path-drive-relative-paths-fix-outdated-solutions/
-https://solutions-spylab.github.io/terminal-bench-mailman3-postfix-reading-group-local-delivery-current-patch/
-https://solutions-spylab.github.io/terminal-bench-sam-cell-seg-mobilesam-cpu-mask-polylines-current-patch/
-https://solutions-spylab.github.io/terminal-bench-db-wal-recovery-sqlite-wal-11-records-current-patch/
