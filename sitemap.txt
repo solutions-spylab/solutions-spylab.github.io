@@ -19,8 +19,14 @@ https://solutions-spylab.github.io/conan-cmakedeps-libraries-variable-check-symb
 https://solutions-spylab.github.io/conan-cmakedeps-libraries-variable-check-symbol-exists-imported-targets-issue-outdated-solutions/
 https://solutions-spylab.github.io/conan-io-conan-python-require-package-id-mode-configuration-attribute-conanfile-conan-current-patch/
 https://solutions-spylab.github.io/conan-io-conan-python-require-package-id-mode-configuration-attribute-conanfile-conan-outdated-solutions/
+https://solutions-spylab.github.io/duckdb-map-try-cast-debug-assertion-vector-valid-check-current-patch/
+https://solutions-spylab.github.io/duckdb-map-try-cast-debug-assertion-vector-valid-check-outdated-solutions/
+https://solutions-spylab.github.io/esphome-2026-4-0-substitutions-include-file-yaml-regression-current-patch/
+https://solutions-spylab.github.io/esphome-2026-4-0-substitutions-include-file-yaml-regression-outdated-solutions/
 https://solutions-spylab.github.io/eventlet-green-thread-py-make-thread-handle-python-3-13-current-patch/
 https://solutions-spylab.github.io/eventlet-green-thread-py-make-thread-handle-python-3-13-outdated-solutions/
+https://solutions-spylab.github.io/floci-lambda-updatefunctioncode-lastupdatestatus-terraform-current-patch/
+https://solutions-spylab.github.io/floci-lambda-updatefunctioncode-lastupdatestatus-terraform-outdated-solutions/
 https://solutions-spylab.github.io/google-adk-python-open-api-spec-parser-collect-operations-path-level-parameters-current-patch/
 https://solutions-spylab.github.io/google-adk-python-open-api-spec-parser-collect-operations-path-level-parameters-outdated-solutions/
 https://solutions-spylab.github.io/jlowin-fastmcp-openapi-py-openapitool-request-headers-current-patch/
@@ -39,6 +45,8 @@ https://solutions-spylab.github.io/matplotlib-plot-date-timezone-tz-parameter-ig
 https://solutions-spylab.github.io/matplotlib-plot-date-timezone-tz-parameter-ignored-site-github-com-matplotlib-matplotlib-outdated-solutions/
 https://solutions-spylab.github.io/mdanalysis-dcd-seek-failed-normal-eof-oserror-issue-2-8-0-current-patch/
 https://solutions-spylab.github.io/mdanalysis-dcd-seek-failed-normal-eof-oserror-issue-2-8-0-outdated-solutions/
+https://solutions-spylab.github.io/orchardcore-markdowntohtmlasync-markdown-not-converted-preview-current-patch/
+https://solutions-spylab.github.io/orchardcore-markdowntohtmlasync-markdown-not-converted-preview-outdated-solutions/
 https://solutions-spylab.github.io/patroni-ctl-py-show-diff-ydiff-markup-to-pager-opts-theme-current-patch/
 https://solutions-spylab.github.io/patroni-ctl-py-show-diff-ydiff-markup-to-pager-opts-theme-outdated-solutions/
 https://solutions-spylab.github.io/patroni-issue-3314-dcs-cache-reconnection-etcd-current-patch/
@@ -62,6 +70,8 @@ https://solutions-spylab.github.io/pvlib-modelchain-py-temperature-model-racking
 https://solutions-spylab.github.io/pvlib-modelchain-py-temperature-model-racking-model-attributeerror-multiple-arrays-outdated-solutions/
 https://solutions-spylab.github.io/pynamodb-connection-boto3-botocore-retry-modes-configuration-current-patch/
 https://solutions-spylab.github.io/pynamodb-connection-boto3-botocore-retry-modes-configuration-outdated-solutions/
+https://solutions-spylab.github.io/qwen-code-statusline-spawn-ebadf-ansiregex3-macos-current-patch/
+https://solutions-spylab.github.io/qwen-code-statusline-spawn-ebadf-ansiregex3-macos-outdated-solutions/
 https://solutions-spylab.github.io/reflex-dev-reflex-router-headers-websocket-state-get-headers-implementation-reflex-dev-current-patch/
 https://solutions-spylab.github.io/reflex-dev-reflex-router-headers-websocket-state-get-headers-implementation-reflex-dev-outdated-solutions/
 https://solutions-spylab.github.io/solaar-pwr-solaar-swap-fx-f-keys-feature-implementation-current-patch/
