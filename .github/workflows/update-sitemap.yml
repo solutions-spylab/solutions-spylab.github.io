@@ -1,0 +1,33 @@
+name: Update mirror sitemap
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-sitemap:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Regenerate sitemap
+        run: python3 scripts/update_sitemap.py
+      - name: Commit sitemap changes
+        run: |
+          if git diff --quiet -- sitemap.xml gsc-sitemap.xml sitemap.txt gsc-sitemap.txt robots.txt; then
+            echo "Sitemap already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml gsc-sitemap.xml sitemap.txt gsc-sitemap.txt robots.txt
+          git commit -m "Update mirror sitemap [skip ci]"
+          git push
