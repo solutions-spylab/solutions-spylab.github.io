@@ -7,6 +7,18 @@
     <priority>1.00</priority>
   </url>
   <url>
+    <loc>https://solutions-spylab.github.io/alibaba-nacos-bug-report-config-import-fails-with-metadataitem-is-null-error-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/alibaba-nacos-bug-report-config-import-fails-with-metadataitem-is-null-error-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://solutions-spylab.github.io/beetbox-beets-lastgenre-plugin-genres-tree-yaml-various-artists-genre-classification-current-patch/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,6 +157,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://solutions-spylab.github.io/erikej-efcorepowertools-supports-postgresql-s-citext-type-in-function-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/erikej-efcorepowertools-supports-postgresql-s-citext-type-in-function-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://solutions-spylab.github.io/esphome-15850-verified-setup/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,6 +187,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://solutions-spylab.github.io/evcc-io-evcc-goodwe-goodwe-wifi-et-unsupported-decode-float32-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/evcc-io-evcc-goodwe-goodwe-wifi-et-unsupported-decode-float32-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://solutions-spylab.github.io/eventlet-green-thread-py-make-thread-handle-python-3-13-current-patch/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -176,6 +212,18 @@
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/floci-463-verified-setup/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/floci-io-floci-bug-kinesis-increasestreamretentionperiod-with-same-value-should-be-a-no-op-not-an-error-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/floci-io-floci-bug-kinesis-increasestreamretentionperiod-with-same-value-should-be-a-no-op-not-an-error-outdated-solutions/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -200,6 +248,30 @@
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/google-adk-python-open-api-spec-parser-collect-operations-path-level-parameters-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/gsd-build-get-shit-done-init-plan-phase-execute-phase-return-archived-phase-when-current-milestone-reuses-the-same-phase-number-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/gsd-build-get-shit-done-init-plan-phase-execute-phase-return-archived-phase-when-current-milestone-reuses-the-same-phase-number-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/gsd-build-gsd-2-stale-anthropic-oauth-credential-blocks-requests-after-3952-removal-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/gsd-build-gsd-2-stale-anthropic-oauth-credential-blocks-requests-after-3952-removal-outdated-solutions/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -253,6 +325,42 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://solutions-spylab.github.io/kubernetes-kube-state-metrics-v2-17-0-breaks-custom-resource-config-file-config-option-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/kubernetes-kube-state-metrics-v2-17-0-breaks-custom-resource-config-file-config-option-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/kyverno-kyverno-bug-matchimagereferences-does-not-filter-images-containers-in-imagevalidatingpolicy-all-images-are-evaluated-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/kyverno-kyverno-bug-matchimagereferences-does-not-filter-images-containers-in-imagevalidatingpolicy-all-images-are-evaluated-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/langchain4j-langchain4j-bug-openaistreamingresponsebuilder-drops-additional-tool-calls-from-same-delta-causing-aimessage-tool-executio-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/langchain4j-langchain4j-bug-openaistreamingresponsebuilder-drops-additional-tool-calls-from-same-delta-causing-aimessage-tool-executio-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://solutions-spylab.github.io/llamastack-llama-stack-openai-responses-api-tool-call-ids-validation-code-site-current-patch/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -301,6 +409,54 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://solutions-spylab.github.io/mnfst-manifest-custom-provider-forwards-internal-namespaced-model-id-upstream-for-fireworks-fire-pass-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/mnfst-manifest-custom-provider-forwards-internal-namespaced-model-id-upstream-for-fireworks-fire-pass-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/ninja-build-ninja-depfile-dependency-on-dyndep-output-does-not-trigger-rebuild-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/ninja-build-ninja-depfile-dependency-on-dyndep-output-does-not-trigger-rebuild-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/nodejs-undici-h2cclient-ignores-the-connect-option-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/nodejs-undici-h2cclient-ignores-the-connect-option-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/openrewrite-rewrite-kotlin-parser-emits-javatype-unknown-as-declaringtype-for-methods-on-built-in-primitive-receivers-e-g-char-toi-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/openrewrite-rewrite-kotlin-parser-emits-javatype-unknown-as-declaringtype-for-methods-on-built-in-primitive-receivers-e-g-char-toi-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://solutions-spylab.github.io/orchardcore-19169-verified-setup/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -314,6 +470,18 @@
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/orchardcore-markdowntohtmlasync-markdown-not-converted-preview-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/oxc-project-oxc-linter-jest-and-vitest-plugins-do-not-work-with-vite-plus-test-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/oxc-project-oxc-linter-jest-and-vitest-plugins-do-not-work-with-vite-plus-test-outdated-solutions/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -433,6 +601,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://solutions-spylab.github.io/provablehq-leo-bug-compiler-panic-in-ssa-const-propagation-parseinterror-kind-posoverflow-on-element-write-to-array-of-size-2-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/provablehq-leo-bug-compiler-panic-in-ssa-const-propagation-parseinterror-kind-posoverflow-on-element-write-to-array-of-size-2-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://solutions-spylab.github.io/pvlib-modelchain-py-temperature-model-racking-model-attributeerror-multiple-arrays-current-patch/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -487,6 +667,66 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://solutions-spylab.github.io/roocodeinc-roo-code-enhancement-add-vertex-ai-support-for-claude-opus-4-7-claude-opus-4-7-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/roocodeinc-roo-code-enhancement-add-vertex-ai-support-for-claude-opus-4-7-claude-opus-4-7-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/rust-lang-rust-analyzer-syntax-error-when-using-type-const-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/rust-lang-rust-analyzer-syntax-error-when-using-type-const-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/shader-slang-slang-crash-ice-when-emitting-code-for-interface-types-without-conformance-flags-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/shader-slang-slang-crash-ice-when-emitting-code-for-interface-types-without-conformance-flags-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/shader-slang-slang-internal-compiler-error-when-using-groupshared-with-interface-typed-variables-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/shader-slang-slang-internal-compiler-error-when-using-groupshared-with-interface-typed-variables-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/smithy-lang-smithy-smithyidlserializer-always-renders-idrefs-unquoted-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/smithy-lang-smithy-smithyidlserializer-always-renders-idrefs-unquoted-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://solutions-spylab.github.io/solaar-pwr-solaar-swap-fx-f-keys-feature-implementation-current-patch/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -530,6 +770,18 @@
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/sphinx-linkcheck-ignore-redirect-handling-source-code-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/sqlc-dev-sqlc-bug-if-column-and-param-share-the-same-name-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/sqlc-dev-sqlc-bug-if-column-and-param-share-the-same-name-outdated-solutions/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -775,6 +1027,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://solutions-spylab.github.io/twpayne-chezmoi-toml-support-was-downgraded-from-v1-1-0-to-v1-0-0-in-chezmoi-2-70-1-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/twpayne-chezmoi-toml-support-was-downgraded-from-v1-1-0-to-v1-0-0-in-chezmoi-2-70-1-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://solutions-spylab.github.io/urllib3-2-0-content-length-string-encoding-body-bytes-control-characters-current-patch/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -794,6 +1058,42 @@
   </url>
   <url>
     <loc>https://solutions-spylab.github.io/urllib3-basehttpresponse-httpresponse-class-structure-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/usebruno-bruno-assert-section-signals-invalid-json-for-array-with-string-values-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/usebruno-bruno-assert-section-signals-invalid-json-for-array-with-string-values-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/wasmedge-wasmedge-bug-gc-wasmedge-segfault-on-ref-cast-eqref-after-table-get-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/wasmedge-wasmedge-bug-gc-wasmedge-segfault-on-ref-cast-eqref-after-table-get-outdated-solutions/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/wxt-dev-wxt-env-file-is-no-longer-auto-imported-current-patch/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://solutions-spylab.github.io/wxt-dev-wxt-env-file-is-no-longer-auto-imported-outdated-solutions/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
