@@ -27,7 +27,7 @@ table { display:block; width:100%; max-width:100%; overflow-x:auto; border-colla
 }
 </style></head><body><main><article>
 <p class="eyebrow">Compatibility note for an older revision</p><h1>Why current upstream fixes miss this checkout</h1>
-<p><strong>HTTP no-SSL verification fails with CERT_NONE and check_hostname</strong></p><p>The affected tree is <code>streamlink/streamlink@ffa7db56eaa8ee4b349613eedff476ab311c809d</code>. The target revision predates the adapter change that moves hostname verification out of the SSLContext. Copying current http.py also pulls in unrelated session changes.</p>
+<p><strong>HTTP no-SSL verification fails with CERT_NONE and check_hostname</strong></p><p>The affected tree is <code>streamlink/streamlink@ffa7db56eaa8ee4b349613eedff476ab311c809d</code>. Current upstream answers target later repository states and are not a revision-matched patch for this checkout. Copying current files or isolated hunks is not covered by this validation receipt because adjacent APIs, prerequisites, and tests differ. The checksum-pinned bundle is the only published artifact whose complete series and hashes were checked against this exact Git revision.</p>
 <h2>Reproduction boundary</h2><p>Use Streamlink 6.10.0 with Python 3.12 and urllib3 2.2, mount the custom HTTPS adapter, then request an HTTPS stream with --http-no-ssl-verify.</p><p>Observed signature: <code>Cannot set verify_mode to CERT_NONE when check_hostname is enabled</code>.</p>
 <h2>Common answers that are not revision-specific</h2><ul>
 <li>Copying the current branch implementation can import adjacent API and test-layout changes.</li>

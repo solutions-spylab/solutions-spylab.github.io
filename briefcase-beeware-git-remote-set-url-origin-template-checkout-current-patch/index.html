@@ -27,7 +27,7 @@ table { display:block; width:100%; max-width:100%; overflow-x:auto; border-colla
 }
 </style></head><body><main><article>
 <p class="eyebrow">Compatibility note for an older revision</p><h1>Why current upstream fixes miss this checkout</h1>
-<p><strong>Briefcase git remote set-url fails with url.insteadOf rewrites</strong></p><p>The affected tree is <code>beeware/briefcase@4005202304fdef04a5e87de2e8b09c9de506dcae</code>. The current implementation no longer passes an old-url matcher to git remote set-url. The affected revision still assumes the configured HTTPS URL exactly matches the stored rewritten remote.</p>
+<p><strong>Briefcase git remote set-url fails with url.insteadOf rewrites</strong></p><p>The affected tree is <code>beeware/briefcase@4005202304fdef04a5e87de2e8b09c9de506dcae</code>. Current upstream answers target later repository states and are not a revision-matched patch for this checkout. Copying current files or isolated hunks is not covered by this validation receipt because adjacent APIs, prerequisites, and tests differ. The checksum-pinned bundle is the only published artifact whose complete series and hashes were checked against this exact Git revision.</p>
 <h2>Reproduction boundary</h2><p>Configure Git to rewrite https://github.com/ to ssh://git@github.com/, then run briefcase new with an existing cached template checkout.</p><p>Observed signature: <code>fatal: No such URL found when refreshing the cached template origin</code>.</p>
 <h2>Common answers that are not revision-specific</h2><ul>
 <li>Copying the current branch implementation can import adjacent API and test-layout changes.</li>

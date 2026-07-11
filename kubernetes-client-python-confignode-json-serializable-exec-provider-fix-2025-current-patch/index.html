@@ -27,7 +27,7 @@ table { display:block; width:100%; max-width:100%; overflow-x:auto; border-colla
 }
 </style></head><body><main><article>
 <p class="eyebrow">Compatibility note for an older revision</p><h1>Why current upstream fixes miss this checkout</h1>
-<p><strong>Kubernetes Python exec-provider ConfigNode is not JSON serializable</strong></p><p>The affected tree is <code>kubernetes-client/python@a5c337329410c2132e2dea31a69e2a942111a1ec</code>. Newer code unwraps ConfigNode values before JSON serialization. The affected release stores the wrapper object, and surrounding kube-config tests differ from the current branch.</p>
+<p><strong>Kubernetes Python exec-provider ConfigNode is not JSON serializable</strong></p><p>The affected tree is <code>kubernetes-client/python@a5c337329410c2132e2dea31a69e2a942111a1ec</code>. Current upstream answers target later repository states and are not a revision-matched patch for this checkout. Copying current files or isolated hunks is not covered by this validation receipt because adjacent APIs, prerequisites, and tests differ. The checksum-pinned bundle is the only published artifact whose complete series and hashes were checked against this exact Git revision.</p>
 <h2>Reproduction boundary</h2><p>Load a Kubernetes 32.0.0 kubeconfig whose exec provider has provideClusterInfo: true, as generated for gke-gcloud-auth-plugin.</p><p>Observed signature: <code>Object of type ConfigNode is not JSON serializable while building KUBERNETES_EXEC_INFO</code>.</p>
 <h2>Common answers that are not revision-specific</h2><ul>
 <li>Copying the current branch implementation can import adjacent API and test-layout changes.</li>

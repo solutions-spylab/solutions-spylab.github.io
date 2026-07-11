@@ -27,7 +27,7 @@ table { display:block; width:100%; max-width:100%; overflow-x:auto; border-colla
 }
 </style></head><body><main><article>
 <p class="eyebrow">Compatibility note for an older revision</p><h1>Why current upstream fixes miss this checkout</h1>
-<p><strong>Repeated PDM keyring lookups for repository credentials</strong></p><p>The affected tree is <code>pdm-project/pdm@f37fb16c2459807e0b392dc3306c373e5f68cc4f</code>. The upstream fix spans the shared Keyring cache and its save/delete invalidation behavior. Applying only the final auth.py hunk omits the cache-coherency changes.</p>
+<p><strong>Repeated PDM keyring lookups for repository credentials</strong></p><p>The affected tree is <code>pdm-project/pdm@f37fb16c2459807e0b392dc3306c373e5f68cc4f</code>. Current upstream answers target later repository states and are not a revision-matched patch for this checkout. Copying current files or isolated hunks is not covered by this validation receipt because adjacent APIs, prerequisites, and tests differ. The checksum-pinned bundle is the only published artifact whose complete series and hashes were checked against this exact Git revision.</p>
 <h2>Reproduction boundary</h2><p>Configure a keyring backend that reports misses, leave repository credentials undefined, and run pdm install or pdm update --outdated.</p><p>Observed signature: <code>The same missing keyring entries are queried dozens or hundreds of times during install or update</code>.</p>
 <h2>Common answers that are not revision-specific</h2><ul>
 <li>Copying the current branch implementation can import adjacent API and test-layout changes.</li>

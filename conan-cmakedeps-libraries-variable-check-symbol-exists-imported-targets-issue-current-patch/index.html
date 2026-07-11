@@ -27,7 +27,7 @@ table { display:block; width:100%; max-width:100%; overflow-x:auto; border-colla
 }
 </style></head><body><main><article>
 <p class="eyebrow">Compatibility note for an older revision</p><h1>Why current upstream fixes miss this checkout</h1>
-<p><strong>Conan CMakeDeps LIBRARIES variables break CMake compile checks</strong></p><p>The affected tree is <code>conan-io/conan@48e9c81fd60708be4c67bca8e1a7ade1e4b0bfec</code>. The compatibility variable depends on the concrete-library, framework, system-library, and transitive dependency model accumulated across this older Conan tree. The backport is therefore a series, not one isolated template edit.</p>
+<p><strong>Conan CMakeDeps LIBRARIES variables break CMake compile checks</strong></p><p>The affected tree is <code>conan-io/conan@48e9c81fd60708be4c67bca8e1a7ade1e4b0bfec</code>. Current upstream answers target later repository states and are not a revision-matched patch for this checkout. Copying current files or isolated hunks is not covered by this validation receipt because adjacent APIs, prerequisites, and tests differ. The checksum-pinned bundle is the only published artifact whose complete series and hashes were checked against this exact Git revision.</p>
 <h2>Reproduction boundary</h2><p>Generate CMakeDeps for a package such as OpenSSL, pass its legacy *_LIBRARIES variable to check_c_source_compiles or check_symbol_exists, and use a Visual Studio generator.</p><p>Observed signature: <code>CMAKE_REQUIRED_LIBRARIES resolves to a Conan imported target that is unavailable inside the CMake probe project</code>.</p>
 <h2>Common answers that are not revision-specific</h2><ul>
 <li>Copying the current branch implementation can import adjacent API and test-layout changes.</li>

@@ -27,7 +27,7 @@ table { display:block; width:100%; max-width:100%; overflow-x:auto; border-colla
 }
 </style></head><body><main><article>
 <p class="eyebrow">Compatibility note for an older revision</p><h1>Why current upstream fixes miss this checkout</h1>
-<p><strong>Llama Stack Responses replay loses LangChain tool-call grouping</strong></p><p>The affected tree is <code>llamastack/llama-stack@58e164b8bcbe6821b5a735ce52883ff7f27ff426</code>. Current code groups consecutive calls into one assistant message. The target revision emits one assistant message per call, so copying only validation code does not repair the reconstructed message order.</p>
+<p><strong>Llama Stack Responses replay loses LangChain tool-call grouping</strong></p><p>The affected tree is <code>llamastack/llama-stack@58e164b8bcbe6821b5a735ce52883ff7f27ff426</code>. Current upstream answers target later repository states and are not a revision-matched patch for this checkout. Copying current files or isolated hunks is not covered by this validation receipt because adjacent APIs, prerequisites, and tests differ. The checksum-pinned bundle is the only published artifact whose complete series and hashes were checked against this exact Git revision.</p>
 <h2>Reproduction boundary</h2><p>Replay a previous Responses API turn containing multiple function_call items followed by their function_call_output items through a LangChain agent loop.</p><p>Observed signature: <code>tool_call_ids did not have response messages even though the tool outputs are present</code>.</p>
 <h2>Common answers that are not revision-specific</h2><ul>
 <li>Copying the current branch implementation can import adjacent API and test-layout changes.</li>

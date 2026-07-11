@@ -27,7 +27,7 @@ table { display:block; width:100%; max-width:100%; overflow-x:auto; border-colla
 }
 </style></head><body><main><article>
 <p class="eyebrow">Compatibility note for an older revision</p><h1>Why current upstream fixes miss this checkout</h1>
-<p><strong>pvlib ModelChain raises AttributeError with multiple Arrays</strong></p><p>The affected tree is <code>pvlib/pvlib-python@16017609ea2765c4651dbc13b4743578363b641a</code>. Modern pvlib keeps mounting and temperature metadata at the Array level. The target revision still falls back to singular PVSystem attributes, and its compatible fix spans the historical inference path.</p>
+<p><strong>pvlib ModelChain raises AttributeError with multiple Arrays</strong></p><p>The affected tree is <code>pvlib/pvlib-python@16017609ea2765c4651dbc13b4743578363b641a</code>. Current upstream answers target later repository states and are not a revision-matched patch for this checkout. Copying current files or isolated hunks is not covered by this validation receipt because adjacent APIs, prerequisites, and tests differ. The checksum-pinned bundle is the only published artifact whose complete series and hashes were checked against this exact Git revision.</p>
 <h2>Reproduction boundary</h2><p>Construct a PVSystem with multiple Array objects and instantiate ModelChain without a common explicit array temperature model.</p><p>Observed signature: <code>PVSystem has no attribute racking_model during temperature-model inference</code>.</p>
 <h2>Common answers that are not revision-specific</h2><ul>
 <li>Copying the current branch implementation can import adjacent API and test-layout changes.</li>

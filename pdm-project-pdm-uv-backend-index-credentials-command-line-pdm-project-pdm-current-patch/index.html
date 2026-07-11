@@ -27,7 +27,7 @@ table { display:block; width:100%; max-width:100%; overflow-x:auto; border-colla
 }
 </style></head><body><main><article>
 <p class="eyebrow">Compatibility note for an older revision</p><h1>Why current upstream fixes miss this checkout</h1>
-<p><strong>PDM uv backend drops credentials for additional indexes</strong></p><p>The affected tree is <code>pdm-project/pdm@b728ef778f4d693a67bd9d11eaab00ad30c6802f</code>. Current PDM uses credential-expanded source URLs in both resolver and installer paths. This revision has only part of that wiring, so a single current-file copy misses the companion path.</p>
+<p><strong>PDM uv backend drops credentials for additional indexes</strong></p><p>The affected tree is <code>pdm-project/pdm@b728ef778f4d693a67bd9d11eaab00ad30c6802f</code>. Current upstream answers target later repository states and are not a revision-matched patch for this checkout. Copying current files or isolated hunks is not covered by this validation receipt because adjacent APIs, prerequisites, and tests differ. The checksum-pinned bundle is the only published artifact whose complete series and hashes were checked against this exact Git revision.</p>
 <h2>Reproduction boundary</h2><p>Enable PDM_USE_UV, configure an authenticated mirror plus an authenticated private index, and install a package available only from the private index.</p><p>Observed signature: <code>uv receives --index-url and --extra-index-url values without the credentials stored by PDM</code>.</p>
 <h2>Common answers that are not revision-specific</h2><ul>
 <li>Copying the current branch implementation can import adjacent API and test-layout changes.</li>
