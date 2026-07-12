@@ -19,6 +19,7 @@ https://solutions-spylab.github.io/cfn-lint-e3510-iam-condition-operator-regex-s
 https://solutions-spylab.github.io/cfn-lint-e3510-iam-condition-operator-regex-stringequalsifexists-foranyvalue-cfn-lint-github-outdated-solutions/
 https://solutions-spylab.github.io/conan-cmakedeps-libraries-variable-check-symbol-exists-imported-targets-issue-current-patch/
 https://solutions-spylab.github.io/conan-cmakedeps-libraries-variable-check-symbol-exists-imported-targets-issue-outdated-solutions/
+https://solutions-spylab.github.io/conan-cpp-info-exes-cmakedeps-imported-executable-targets-current-patch/
 https://solutions-spylab.github.io/conan-io-conan-python-require-package-id-mode-configuration-attribute-conanfile-conan-current-patch/
 https://solutions-spylab.github.io/conan-io-conan-python-require-package-id-mode-configuration-attribute-conanfile-conan-outdated-solutions/
 https://solutions-spylab.github.io/duckdb-22152-verified-setup/
